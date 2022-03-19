@@ -12,7 +12,7 @@
 Updated an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total is updated when they're brought back online.
 
 ## Deployment
-https://still-plains-23937.herokuapp.com/ 
+https://rocky-bayou-68820.herokuapp.com/
 ## Screenshot
 ![Screenshot of Budget Tracker](./screenshot.png)
 
